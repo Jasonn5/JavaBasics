@@ -1,4 +1,4 @@
-public class HighscoolTrainee {
+public class HighschoolTrainee {
      public static void main(String[] args){
          int StudentAge = 22;
          double Prom = 8.5;
